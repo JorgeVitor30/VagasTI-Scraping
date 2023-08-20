@@ -1,6 +1,6 @@
 # Projeto de Web Scraping e Análise de Vagas de Emprego na Área de Tecnologia
 
-Este repositório contém o código e recursos relacionados ao projeto de web scraping para coleta de vagas de emprego na área de tecnologia a partir de um site de referência. Os dados coletados são processados e armazenados em um banco de dados, e em seguida, é criado um relatório utilizando as informações obtidas.
+Este repositório contém o código e recursos relacionados ao projeto de web scraping para coleta de vagas de emprego na área de tecnologia a partir de um site de referência. Os dados coletados são processados e armazenados em um banco de dados, e em seguida, é criado um relatório utilizando as informações obtidas. Onde foi criado o arquivo main para a extração da Web e o arquivo union_all para juntar todos os excel de todos scraping.
 
 ## Objetivo
 
